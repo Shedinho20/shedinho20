@@ -1,4 +1,5 @@
-Hi 👋 My name is Shedrach Ezenwali
+##### Hi 👋
+My name is Shedrach Ezenwali
 Full Stack Web Developer
 * 🌍  I'm based in New Westminster BC
 * ✉️  You can contact me at [shedinhoshedrach@gmail.com](mailto:shedinhoshedrach@gmail.com)
@@ -28,6 +29,3 @@ Full Stack Web Developer
 <a href="http://www.github.com/shedinho20"><img src="https://github-readme-stats.vercel.app/api?username=shedinho20&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="shedinho20's GitHub stats" /></a>
 
 <a href="http://www.github.com/shedinho20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shedinho20&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
