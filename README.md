@@ -1,4 +1,4 @@
-Hi 👋 My name is uzochukwu victor
+Hi 👋 My name is Shedrach Ezenwali
 Full Stack Web Developer
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vickzdev@gmail.com](mailto:vickzdev@gmail.com)
