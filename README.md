@@ -1,10 +1,9 @@
 Hi 👋 My name is Shedrach Ezenwali
 Full Stack Web Developer
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [vickzdev@gmail.com](mailto:vickzdev@gmail.com)
-* 🧠  Joined ALX Software Engineering [COHORT 10](https://www.alxafrica.com/)
-* 🖥️  See my portfolio at [My Portfolio](http://vickzdev.netlify.app)
-* 🧠  I'm learning Python
+* ✉️  You can contact me at [shedinhoshedrach@gmail.com](mailto:shedinhoshedrach@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](https://shedinho.netlify.app)
+* 🧠  I'm learning Python and C#
 
 ### Skills
 
