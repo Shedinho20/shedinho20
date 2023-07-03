@@ -1,7 +1,7 @@
 ##### Hi 👋
 My name is Shedrach Ezenwali
 Full Stack Web Developer
-* 🌍  I'm based in New Westminster BC
+* 🌍  I'm based in Surrey BC
 * ✉️  You can contact me at [shedinhoshedrach@gmail.com](mailto:shedinhoshedrach@gmail.com)
 * 🖥️  See my portfolio at [My Portfolio](https://shedinho.netlify.app)
 * 🧠  I'm learning Data Analytics
